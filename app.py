@@ -1,4 +1,3 @@
-#checking for auto build in jenkins
 from flask import Flask,render_template
 
 app = Flask(__name__)
